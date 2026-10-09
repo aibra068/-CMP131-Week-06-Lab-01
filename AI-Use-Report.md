@@ -2,17 +2,17 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name: Amaney Ibrahim
+- Week: 06
+- Lab: 01
+- Date: 10/08/26
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [X] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
